@@ -1,1 +1,4 @@
-# image-metadata-analyzer
+File Metadata Microservice
+=========================
+
+Give file, get size
